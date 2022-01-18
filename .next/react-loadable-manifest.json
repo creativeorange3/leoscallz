@@ -1,0 +1,48 @@
+{
+  "../../components/elements/ThemeSwitch": [
+    {
+      "id": "2l2w",
+      "file": "static/chunks/9.6066c54d4444d13ddd8a.js"
+    }
+  ],
+  "../elements/ThemeSwitch": [
+    {
+      "id": "2l2w",
+      "file": "static/chunks/9.6066c54d4444d13ddd8a.js"
+    }
+  ],
+  "react-modal-video": [
+    {
+      "id": "60Bi",
+      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+    },
+    {
+      "id": "S3Uj",
+      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+    },
+    {
+      "id": "Si88",
+      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+    },
+    {
+      "id": "VCL8",
+      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+    },
+    {
+      "id": "VOcB",
+      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+    },
+    {
+      "id": "xfxO",
+      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+    },
+    {
+      "id": "yD6e",
+      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+    },
+    {
+      "id": "ycFn",
+      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+    }
+  ]
+}
