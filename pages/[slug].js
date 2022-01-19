@@ -51,7 +51,7 @@ function Item({ token }) {
                                                         src={token.tokenLogo.url}
                                                         alt=""
                                                         className="me-3"
-                                                        style={{ width: '80px' }}
+                                                        style={{ width: "80px" }}
                                                     />
                                                     <div className="flex-grow-1">
                                                         <h5 className="mb-0">

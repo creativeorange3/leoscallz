@@ -40,7 +40,7 @@ const Index = ({ tokenData }) => {
                                     </p>
                                 </div>
                             </div>
-                            <Link href="/spooderman">
+                            <Link href={`/${mainProject.node.slug}`}>
                                 <div className="col-xl-5 col-lg-6 col-12" style={{ cursor: 'pointer' }}>
                                     <div className="intro-slider">
                                         <div className="slider-item">
