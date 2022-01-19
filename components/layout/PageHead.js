@@ -4,7 +4,7 @@ function PageHead({ headTitle }) {
         <>
             <Head>
                 <title>
-                    {headTitle ? headTitle : "Leos World"}
+                    {headTitle ? headTitle : "World of Leo"}
                 </title>
                 <link rel="icon" href="/favicon.png" />
             </Head>
