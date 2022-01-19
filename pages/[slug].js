@@ -55,7 +55,7 @@ function Item({ token }) {
                                                     />
                                                     <div className="flex-grow-1">
                                                         <h5 className="mb-0">
-                                                            {token.description}
+                                                            {token.catchPhrase}
                                                         </h5>
                                                     </div>
                                                 </div>
