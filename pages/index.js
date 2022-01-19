@@ -215,7 +215,7 @@ const Index = ({ tokenData }) => {
                                         <h4>Become an Ape 2 project</h4>
                                         <p>
                                             In most serious investor groups, website is needed to be listed as Ape 2.
-                                            Leos shit provides just that - you can start attracting more investors!
+                                            Leos world provides just that - you can start attracting more investors!
                                         </p>
                                     </div>
                                 </div>
@@ -226,9 +226,9 @@ const Index = ({ tokenData }) => {
                                         <i className="bi bi-circle-half"></i>
                                     </div>
                                     <div>
-                                        <h4>List your presale on Leos Shit</h4>
+                                        <h4>List your presale on Leos world</h4>
                                         <p>
-                                            Leos shit doesn't only list launched tokens! You can list your presale to attract more early bird investors.
+                                            Leos world doesn't only list launched tokens! You can list your presale to attract more early bird investors.
                                         </p>
                                     </div>
                                 </div>

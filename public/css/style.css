@@ -9662,7 +9662,6 @@ button,
 .intro-slider {
   position: relative; }
   .intro-slider .slider-item {
-    transform: scale(1) perspective(1040px) rotateY(-18deg) rotateX(0) rotate(0);
     position: relative; }
     .intro-slider .slider-item img {
       border-radius: 8px; }

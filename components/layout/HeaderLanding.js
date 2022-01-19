@@ -17,7 +17,7 @@ function HeaderLanding() {
                                 <nav className="navbar navbar-expand-lg navbar-light" style={{display: 'flex', justifyContent: 'space-between'}}>
                                     <div className="brand-logo">
                                         <Link href="/"><a>
-                                           leos shit
+                                           <img style={{width: "60px"}} src="/images/logo.png"/>
                                         </a></Link>
                                     </div>
                                     <div className="d-flex align-items-center">

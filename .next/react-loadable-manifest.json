@@ -1,48 +1,48 @@
 {
   "../../components/elements/ThemeSwitch": [
     {
-      "id": "2l2w",
-      "file": "static/chunks/9.6066c54d4444d13ddd8a.js"
+      "id": "./components/elements/ThemeSwitch.js",
+      "file": "static/chunks/1.js"
     }
   ],
-  "../elements/ThemeSwitch": [
+  "./dev/noop": [
     {
-      "id": "2l2w",
-      "file": "static/chunks/9.6066c54d4444d13ddd8a.js"
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
     }
   ],
   "react-modal-video": [
     {
-      "id": "60Bi",
-      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+      "id": "./node_modules/dom-helpers/class/addClass.js",
+      "file": "static/chunks/2.js"
     },
     {
-      "id": "S3Uj",
-      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+      "id": "./node_modules/dom-helpers/class/hasClass.js",
+      "file": "static/chunks/2.js"
     },
     {
-      "id": "Si88",
-      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+      "id": "./node_modules/dom-helpers/class/removeClass.js",
+      "file": "static/chunks/2.js"
     },
     {
-      "id": "VCL8",
-      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+      "id": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
+      "file": "static/chunks/2.js"
     },
     {
-      "id": "VOcB",
-      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+      "id": "./node_modules/react-modal-video/lib/index.js",
+      "file": "static/chunks/2.js"
     },
     {
-      "id": "xfxO",
-      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+      "id": "./node_modules/react-transition-group/CSSTransition.js",
+      "file": "static/chunks/2.js"
     },
     {
-      "id": "yD6e",
-      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+      "id": "./node_modules/react-transition-group/Transition.js",
+      "file": "static/chunks/2.js"
     },
     {
-      "id": "ycFn",
-      "file": "static/chunks/51.e25e3bf3db21894561eb.js"
+      "id": "./node_modules/react-transition-group/utils/PropTypes.js",
+      "file": "static/chunks/2.js"
     }
   ]
 }
